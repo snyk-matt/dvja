@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:17-ea-10-jdk
 MAINTAINER Abhisek Datta <abhisek@appsecco.com>
 
 RUN apt-get update
